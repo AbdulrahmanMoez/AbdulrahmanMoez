@@ -4,9 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Back-end+Developer+Student;Python+%26+Django+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-### 🚀 Back-end Developer Student 
+### 🚀 Back-end Developer Student
 
-I'm passionate about building robust and scalable back-end solutions. I'm currently expanding my knowledge in various technologies and frameworks, with a strong focus on Python and web development.
+I'm a passionate Back-End Developer with a unique background, combining technical expertise with educational innovation to create functional and user-centric solutions. I have extensive training in Python, Django, and database management using MySQL, specializing in REST API implementation and robust server-side application development.
+
+My strong collaboration and communication abilities, developed through intensive professional programs, enable effective teamwork in dynamic environments. I offer a comprehensive blend of technical proficiency and essential soft skills for delivering exceptional backend solutions and educational technology experiences.
 
 ---
 
@@ -44,7 +46,7 @@ Projects related to shell scripting from my ALX studies.
 Python projects from Week 3 of my ALX program.
 
 ### [Intro_to_DB](https://github.com/AbdulrahmanMoez/Intro_to_DB)
-An introductory project focusing on database concepts.
+An introductory project focusing on database concepts, specifically MySQL.
 
 ### [Alx_DjangoLearnLab](https://github.com/AbdulrahmanMoez/Alx_DjangoLearnLab)
 Learning and experimenting with Django framework through ALX.
@@ -52,19 +54,20 @@ Learning and experimenting with Django framework through ALX.
 ### [Django_Softools_App](https://github.com/AbdulrahmanMoez/Django_Softools_App)
 A Django application demonstrating web development skills with HTML.
 
+### [alx-higher_level_programming](https://github.com/AbdulrahmanMoez/alx-higher_level_programming)
+This is a new repository that was added to your GitHub profile. It likely contains projects related to higher-level programming concepts.
+
 ## 💻 Tech Stack:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,bash,git,github,vscode" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,git,github,linux,bash,vscode,html,css,js,photoshop,illustrator,canva" alt="Tech Stack"/>
 </div>
 
 ### Languages & Technologies:
-- **Languages:** Python, Shell/Bash, HTML
-- **Frameworks:** Django
-- **Tools:** Git, GitHub, VS Code
-- **Databases:** MySQL | PostgreSQL (Learning)
-
----
+- **Back-End Development:** Python, Django, REST APIs, MySQL, Git/GitHub, Linux, Bash, Cloud Basics, Testing
+- **Creative & Design:** Adobe Suite, Canva, Photopea, UI/UX Principles, Office & Google Workspace
+- **Soft Skills:** Leadership, Agile, Communication, Teamwork, Research, Innovation, Pair Programming, Project Planning
+- **Languages:** Arabic (Native), English (Professional)---
 
 ## 📊 GitHub Stats:
 
@@ -106,9 +109,6 @@ A Django application demonstrating web development skills with HTML.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulrahmanMoez&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</div>
-
-<div align="center">
   <h3>💫 Thanks for visiting my profile! Let's connect and build something amazing together! 💫</h3>
 </div>
+
