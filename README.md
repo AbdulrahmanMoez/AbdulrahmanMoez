@@ -62,7 +62,7 @@ A Django application demonstrating web development skills with HTML.
 - **Languages:** Python, Shell/Bash, HTML
 - **Frameworks:** Django
 - **Tools:** Git, GitHub, VS Code
-- **Databases:** MySQL | PostgresSQL (Learning)
+- **Databases:** MySQL | PostgreSQL (Learning)
 
 ---
 
