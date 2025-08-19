@@ -1,7 +1,7 @@
 # Hi there, I'm Abdulrahman Moez! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Back-end+Developer+Student;Python+%26+Django+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Back-end+Developer+Student;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 ### 🚀 Back-end Developer Student
@@ -11,24 +11,27 @@ I'm a passionate Back-End Developer with a unique background, combining technica
 My strong collaboration and communication abilities, developed through intensive professional programs, enable effective teamwork in dynamic environments. I offer a comprehensive blend of technical proficiency and essential soft skills for delivering exceptional backend solutions and educational technology experiences.
 
 ---
-
 ## 🌐 Connect with me:
 
 <div align="center">
   <a href="https://abdulrahmanmoez.site">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://www.linkedin.com/in/AbdulrahmanMoez">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/AbdulrahmanMoez">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+</a>
   </a>
-  <a href="https://twitter.com/AbdulrahmanMoez">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://x.com/AbdulrahmanMoez">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://www.instagram.com/AbdullrahmanMoez">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.facebook.com/AbdullrahmanMoez">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:abdullrahmanmoez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
