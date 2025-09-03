@@ -63,7 +63,7 @@ This is a new repository that was added to your GitHub profile. It likely contai
 ## 💻 Tech Stack:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,git,github,linux,bash,vscode,html,css,js,photoshop,illustrator,canva" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,postgresql,git,github,linux,bash,vscode,html,css" alt="Tech Stack"/>
 </div>
 
 ### Languages & Technologies:
